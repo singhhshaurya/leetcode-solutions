@@ -7,6 +7,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3620-network-recovery-pathways](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3620-network-recovery-pathways](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Union-Find
 |  |
 | ------- |
@@ -23,4 +25,21 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3620-network-recovery-pathways](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
+## Shortest Path
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
