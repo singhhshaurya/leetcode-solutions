@@ -26,13 +26,19 @@ public:
             if(!global_visited[i]){
                 curr_visited =  vector<int>(n, 0); // marks jo abhi dfs me visit kare nodes.
                 dfs(i, curr_visited);
-                size = count(curr_visited.begin(), curr_visited.end(), 1) - 1; 
+                size = -1;
+
+                for(int i=0; i<n; i++){
+                    if(curr_visited[i]){
+                        size ++;
+                        curr_visited.push_back(i);
+                    }
+                }
                 flag = 1;
 
-                for(int j=0; j<n; j++){
-                    if(!curr_visited[j]) continue;
-                    global_visited[j] = 1;
-                    if(graph[j].size()<size){
+                for(int j=n; j<curr_visited.size(); j++){
+                    global_visited[curr_visited[j]] = 1;
+                    if(graph[curr_visited[j]].size()<size){
                         flag = 0;
                         break;
                     }
