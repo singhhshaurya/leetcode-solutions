@@ -1,12 +1,12 @@
 class Solution {
 public:
     unordered_map<int, vector<int>> graph;
-    void dfs(int node, unordered_set<int>& curr_visited){
-        curr_visited.insert(node);
 
+    void dfs(int node, vector<int>& visited){
+        visited[node] = 1;
         for(int i:graph[node]){
-            if(curr_visited.find(i)==curr_visited.end()){
-                dfs(i, curr_visited);
+            if(!visited[i]){
+                dfs(i, visited);
             }
         }
     }
@@ -19,17 +19,18 @@ public:
             graph[i[1]].push_back(i[0]);
         }
 
-        vector<int> global_visited(n, 0);
+        vector<int> global_visited(n, 0), curr_visited;
         int ans = 0, size, flag;
 
         for(int i=0; i<n; i++){
             if(!global_visited[i]){
-                unordered_set<int> curr_visited; // marks jo abhi dfs me visit kare nodes.
+                curr_visited =  vector<int>(n, 0); // marks jo abhi dfs me visit kare nodes.
                 dfs(i, curr_visited);
-                size = curr_visited.size()-1; 
+                size = count(curr_visited.begin(), curr_visited.end(), 1) - 1; 
                 flag = 1;
 
-                for(int j:curr_visited){
+                for(int j=0; j<n; j++){
+                    if(!curr_visited[j]) continue;
                     global_visited[j] = 1;
                     if(graph[j].size()<size){
                         flag = 0;
