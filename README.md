@@ -6,11 +6,13 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 ## Array
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
@@ -52,4 +54,8 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
