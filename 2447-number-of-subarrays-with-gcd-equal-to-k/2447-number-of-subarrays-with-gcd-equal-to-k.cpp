@@ -10,6 +10,7 @@ public:
             GCD = nums[i];
             for(int j=i; j<nums.size(); j++){
                 GCD = gcd(GCD, nums[j]);
+                if(GCD < k) break;
                 ans += GCD == k; 
             }
         }
