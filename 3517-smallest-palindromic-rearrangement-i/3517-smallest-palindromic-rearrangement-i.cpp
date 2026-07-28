@@ -2,6 +2,7 @@ class Solution {
 public:
     string smallestPalindrome(string s) {
         // count sort. 
+        // o(n) instead of o(nlogn). 
 
         string first_half = s.substr(0, s.size()/2);
 
