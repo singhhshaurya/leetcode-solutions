@@ -2,26 +2,27 @@ class Solution {
 public:
     int minimumPushes(string word) {
         // ezpz 
-        
-        unordered_map<char, int> freq;
-        for(char c:word) freq[c]++;
+        vector<int> freq(26);
+        for(char c:word) freq[c-'a']++;
 
         vector<pair<int, char>> freq2;
-        for(auto& i:freq) freq2.push_back({-i.second, i.first});
+        for(int i=0; i<26; i++){
+            freq2.push_back({-freq[i], 'a'+i});
+        }
 
         sort(freq2.begin(), freq2.end());
-        unordered_map<char, int> map;
-
+        vector<int> map(26);
+        
         int curr = 2;
         for(auto& i:freq2) {
-            map[i.second] = curr++;
+            map[i.second - 'a'] = curr++;
             if(curr%10 == 0) curr +=2; // skip 0 and 1.
         }
-        
+
         // for(auto& i:map) cout << i.first << " " << i.second;
         int ans = 0;
         for(char c:word){
-            ans += 1 + map[c]/10;
+            ans += 1 + map[c-'a']/10;
         }
         return ans;
     }  
