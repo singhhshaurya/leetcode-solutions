@@ -7,6 +7,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0877-stone-game) |
 | [1331-rank-transform-of-an-array](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 ## Dynamic Programming
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0877-stone-game) |
 | [3620-network-recovery-pathways](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -149,4 +152,8 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
