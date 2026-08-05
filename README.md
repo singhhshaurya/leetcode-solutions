@@ -11,6 +11,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 | [0778-swim-in-rising-water](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0877-stone-game](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0877-stone-game) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0980-unique-paths-iii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 ## Bit Manipulation
 |  |
 | ------- |
+| [0980-unique-paths-iii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Enumeration
@@ -188,8 +190,17 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+| [0980-unique-paths-iii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+## Backtracking
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0980-unique-paths-iii) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
