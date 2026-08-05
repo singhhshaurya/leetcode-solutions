@@ -8,6 +8,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0757-set-intersection-size-at-least-two](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0757-set-intersection-size-at-least-two) |
+| [0778-swim-in-rising-water](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0877-stone-game](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0877-stone-game) |
 | [1331-rank-transform-of-an-array](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1406-stone-game-iii) |
@@ -31,12 +32,14 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 ## Binary Search
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [3312-sorted-gcd-pair-queries](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Union-Find
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [2685-count-the-number-of-complete-components](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
@@ -59,6 +62,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0778-swim-in-rising-water](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [3620-network-recovery-pathways](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -67,10 +71,12 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 ## Depth-First Search
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [2685-count-the-number-of-complete-components](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [2685-count-the-number-of-complete-components](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Sorting
 |  |
@@ -169,9 +175,18 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 ## Minimax
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [1406-stone-game-iii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1406-stone-game-iii) |
+## Matrix
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
