@@ -7,6 +7,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0757-set-intersection-size-at-least-two](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0757-set-intersection-size-at-least-two) |
 | [0877-stone-game](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0877-stone-game) |
 | [1331-rank-transform-of-an-array](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1406-stone-game-iii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0757-set-intersection-size-at-least-two](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0757-set-intersection-size-at-least-two) |
 | [1331-rank-transform-of-an-array](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 ## Greedy
 |  |
 | ------- |
+| [0757-set-intersection-size-at-least-two](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0757-set-intersection-size-at-least-two) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Game Theory
 |  |
