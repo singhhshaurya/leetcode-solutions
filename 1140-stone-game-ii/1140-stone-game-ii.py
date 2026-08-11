@@ -3,11 +3,17 @@ class Solution:
         # dp hi hai bc. ek aur factor aa jayega 'm' ka. initally its 1.
         # to wait khelna to hai hame but subtract nahi karna ab right??
         n = len(piles)
-        memo = [[[[-1, -1] for i in range(2)] for i in range(n+1)] for i in range(n)]
+        memo = [[[-1, -1] for i in range(n+1)] for i in range(n)]
+
+        suffix_sums = [0] * (n + 1)
+        for i in range(n - 1, -1, -1):
+            suffix_sums[i] = suffix_sums[i + 1] + piles[i]
 
         def dp(index, m, alex=True):
+            if index + 2 * m >= n:
+                return suffix_sums[index]
             if index >= n: return 0
-            if memo[index][m][alex] != [-1, -1]: return memo[index][m][alex][0]
+            if memo[index][m] != [-1, -1]: return memo[index][m][0]
 
             ans = -inf
             jump = 0
@@ -19,27 +25,24 @@ class Solution:
                     jump = i+1
                     ans = ans2
             
-            memo[index][m][alex] = (ans, jump)
+            memo[index][m] = (ans, jump)
             return ans
 
         dp(0, 1, True)
         ind = 0
         m = 1
-        alex = True
         ans = 0
-        # for i in memo:
-        #     print(i, memo[i])
+
 
         while(ind < len(piles)):
-            ans += memo[ind][m][alex][0]
-            jumps = memo[ind][m][alex][1]
+            if ind + 2 * m >= n:
+                ans += suffix_sums[ind]
+                break
+            ans += memo[ind][m][0]
+            jumps = memo[ind][m][1]
             ind += jumps
             m = max(m, jumps)
-            alex = not alex
-
-        return ans
-
-
 
 
         return ans
+
