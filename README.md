@@ -17,6 +17,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 | [1406-stone-game-iii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -223,4 +225,8 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 |  |
 | ------- |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
