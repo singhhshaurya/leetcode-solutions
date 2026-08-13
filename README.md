@@ -6,6 +6,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 ## Array
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0628-maximum-product-of-three-numbers](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0757-set-intersection-size-at-least-two](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0757-set-intersection-size-at-least-two) |
 | [0778-swim-in-rising-water](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0307-range-sum-query-mutable](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 ## Merge Sort
 |  |
 | ------- |
@@ -229,4 +231,20 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
