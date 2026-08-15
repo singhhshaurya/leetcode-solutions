@@ -18,6 +18,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 | [1140-stone-game-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1306-jump-game-iii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1345-jump-game-iv](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1406-stone-game-iii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1345-jump-game-iv](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [1306-jump-game-iii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [2685-count-the-number-of-complete-components](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Sorting
 |  |
