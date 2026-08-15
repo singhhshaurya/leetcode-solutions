@@ -16,6 +16,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0980-unique-paths-iii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 | [1140-stone-game-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1306-jump-game-iii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -89,11 +90,13 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1306-jump-game-iii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [2685-count-the-number-of-complete-components](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+| [1306-jump-game-iii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [2685-count-the-number-of-complete-components](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Sorting
 |  |
