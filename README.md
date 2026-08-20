@@ -26,6 +26,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 ## Simulation
 |  |
 | ------- |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
@@ -263,10 +265,12 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 ## Sqrt Decomposition
 |  |
 | ------- |
