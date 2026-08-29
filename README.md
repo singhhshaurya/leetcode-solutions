@@ -24,6 +24,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 | [1406-stone-game-iii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3072-distribute-elements-into-two-arrays-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [2685-count-the-number-of-complete-components](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 | [0757-set-intersection-size-at-least-two](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0757-set-intersection-size-at-least-two) |
 | [1331-rank-transform-of-an-array](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1340-jump-game-v) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
