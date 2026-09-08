@@ -14,8 +14,8 @@ public:
         int n = s.size();
         vector<long long> dp(n, 1);
         dp[0] = 1; // dp[i] stores subsequences with last letter = dp[i].
-
-        unordered_map<char, int> table; // stores last occurence of letters.
+        
+        vector<int> table(26, -1);
         // abcefge
         // {a}, {ab, b} , {abc, bc, ac, c}, {ae, abe, be, abce, bce, ace}
 
@@ -23,12 +23,12 @@ public:
         for(int i=0; i<n; i++){
             if(i == n-1) dp[i] -= 1; // remove the 'only letter' one. last letter to border hai na. 
             for(int j=0; j<26; j++){
-                if(table.find('a'+j) != table.end()){
-                    dp[i] += dp[table['a'+j]];
+                if(table[j]!=-1){
+                    dp[i] += dp[table[j]];
                     dp[i] %= MOD;
                 }
             }
-            table[s[i]] = i;
+            table[s[i]-'a'] = i;
         }
         return dp.back();
 
