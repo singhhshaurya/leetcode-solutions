@@ -77,6 +77,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 | [0045-jump-game-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0055-jump-game) |
 | [0877-stone-game](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1140-stone-game-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1340-jump-game-v](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1340-jump-game-v) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 ## String
 |  |
 | ------- |
+| [0940-distinct-subsequences-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
