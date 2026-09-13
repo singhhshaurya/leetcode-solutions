@@ -12,6 +12,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 | [0628-maximum-product-of-three-numbers](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0757-set-intersection-size-at-least-two](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0757-set-intersection-size-at-least-two) |
 | [0778-swim-in-rising-water](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0877-stone-game) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0980-unique-paths-iii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0980-unique-paths-iii) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0980-unique-paths-iii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 ## Dijkstra's Algorithm
 |  |
