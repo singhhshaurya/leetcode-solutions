@@ -9,6 +9,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 | [0045-jump-game-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0055-jump-game) |
 | [0307-range-sum-query-mutable](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0628-maximum-product-of-three-numbers](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0757-set-intersection-size-at-least-two](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0757-set-intersection-size-at-least-two) |
 | [0778-swim-in-rising-water](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 ## Binary Search
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0778-swim-in-rising-water](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [3312-sorted-gcd-pair-queries](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -211,10 +213,12 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0307-range-sum-query-mutable](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Greedy
 |  |
 | ------- |
@@ -282,14 +286,24 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 ## Sqrt Decomposition
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
