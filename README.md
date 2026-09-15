@@ -85,6 +85,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 | [1140-stone-game-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1340-jump-game-v](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3620-network-recovery-pathways](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 ## Two Pointers
 |  |
 | ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 | [0940-distinct-subsequences-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 | [0055-jump-game](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0055-jump-game) |
 | [0757-set-intersection-size-at-least-two](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0757-set-intersection-size-at-least-two) |
 | [1386-cinema-seat-allocation](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
