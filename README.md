@@ -24,6 +24,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 | [1345-jump-game-iv](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1386-cinema-seat-allocation](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 | [1331-rank-transform-of-an-array](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1386-cinema-seat-allocation](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0778-swim-in-rising-water](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 | ------- |
 | [1140-stone-game-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3904-smallest-stable-index-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Bit Manipulation
@@ -286,6 +290,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 ## Sliding Window
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Design
