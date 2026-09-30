@@ -6,7 +6,7 @@ public:
             k[i[0]] = i[1];
         } 
         int ptr = 0, left_ptr;
-        string subs, replace;
+        string subs, replace, ans;
 
         vector<int> stack;
         while(ptr < s.size()){
@@ -17,13 +17,12 @@ public:
                 subs = s.substr(left_ptr+1, ptr - left_ptr -1);
                 if(k.find(subs) == k.end()) replace = "?";
                 else replace = k[subs];
-
+                ans += replace;
                 // cout << left_ptr << " " << ptr << " " << subs << "LALA" << replace << "\n";
-                s.replace(left_ptr, ptr-left_ptr+1, replace);
-                ptr -= subs.size() - replace.size() + 2;
             }
+            if(s[ptr] != ')' && stack.empty()) ans.push_back(s[ptr]);
             ptr++;
         }
-        return s;
+        return ans;
     }
 };
