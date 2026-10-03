@@ -16,8 +16,8 @@ public:
             }
         }
 
-        unordered_set<int> vacant_opens;
-        for(int i:opens) vacant_opens.insert(i);
+        vector<int> vacant_opens(s.size(), 1);
+        for(int i:opens) vacant_opens[i] = 0;
 
         int open_count = 0;
         int curr_ans = 0;
@@ -25,7 +25,7 @@ public:
 
         for(int i=0; i<s.size(); i++){
             if(s[i]=='('){
-                if(vacant_opens.find(i)==vacant_opens.end()){
+                if(vacant_opens[i]){
                     open_count ++;
                 }else{
                     ans = max(ans, curr_ans);
