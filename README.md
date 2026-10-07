@@ -125,6 +125,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0778-swim-in-rising-water](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [1306-jump-game-iii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1345-jump-game-iv) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 | [0020-valid-parentheses](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0980-unique-paths-iii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 ## Hamiltonian Path
 |  |
