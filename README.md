@@ -227,6 +227,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 | [1021-remove-outermost-parentheses](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 | [0757-set-intersection-size-at-least-two](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0757-set-intersection-size-at-least-two) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -369,5 +372,6 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
