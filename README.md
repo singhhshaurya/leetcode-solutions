@@ -91,6 +91,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 | [0032-longest-valid-parentheses](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0055-jump-game) |
+| [0115-distinct-subsequences](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0213-house-robber-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0877-stone-game](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 | [0020-valid-parentheses](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0301-remove-invalid-parentheses](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
