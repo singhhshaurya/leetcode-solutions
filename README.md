@@ -168,6 +168,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -274,6 +275,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/singhhshaurya/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Game Theory
 |  |
