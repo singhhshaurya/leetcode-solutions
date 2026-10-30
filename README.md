@@ -10,6 +10,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 | [0055-jump-game](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0055-jump-game) |
 | [0137-single-number-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0213-house-robber-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0260-single-number-iii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0307-range-sum-query-mutable](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0628-maximum-product-of-three-numbers](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0980-unique-paths-iii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 | [1386-cinema-seat-allocation](https://github.com/singhhshaurya/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/singhhshaurya/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
