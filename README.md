@@ -13,6 +13,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 | [0260-single-number-iii](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0307-range-sum-query-mutable](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0757-set-intersection-size-at-least-two](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0757-set-intersection-size-at-least-two) |
 | [0778-swim-in-rising-water](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions, with my own solutions added, with time and s
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/singhhshaurya/leetcode-solutions/tree/master/0877-stone-game) |
